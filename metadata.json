@@ -1,0 +1,6 @@
+{
+  "name": "Hồn Đất Việt AI Company",
+  "description": "Công ty ảo 3D quản lý đội ngũ AI Agent phục vụ nghiên cứu, phát triển và kiểm thử dự án Hồn Đất Việt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
