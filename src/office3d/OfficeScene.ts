@@ -72,14 +72,14 @@ export class OfficeScene {
   private previousTouchMidpoint = { x: 0, y: 0 };
 
   // Bound event handlers for cleanup
-  private boundPointerDown: (e: MouseEvent) => void;
-  private boundPointerMove: (e: MouseEvent) => void;
-  private boundPointerUp: (e: MouseEvent) => void;
-  private boundWheel: (e: WheelEvent) => void;
-  private boundResize: () => void;
-  private boundTouchStart: (e: TouchEvent) => void;
-  private boundTouchMove: (e: TouchEvent) => void;
-  private boundTouchEnd: (e: TouchEvent) => void;
+  private boundPointerDown!: (e: MouseEvent) => void;
+  private boundPointerMove!: (e: MouseEvent) => void;
+  private boundPointerUp!: (e: MouseEvent) => void;
+  private boundWheel!: (e: WheelEvent) => void;
+  private boundResize!: () => void;
+  private boundTouchStart!: (e: TouchEvent) => void;
+  private boundTouchMove!: (e: TouchEvent) => void;
+  private boundTouchEnd!: (e: TouchEvent) => void;
 
   private animationFrameId: number | null = null;
   private clock = new THREE.Clock();

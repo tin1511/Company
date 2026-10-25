@@ -189,8 +189,8 @@ export const ChairmanLoginModal: React.FC<ChairmanLoginModalProps> = ({
                     {showPassword ? <EyeOff className="w-4 h-4" /> : <Eye className="w-4 h-4" />}
                   </button>
                 </div>
-                <p className="text-[11px] text-slate-500">
-                  Mật khẩu khởi tạo được cung cấp qua cấu hình bảo mật máy chủ.
+                <p className="text-[11px] text-slate-400">
+                  Mật khẩu bảo mật quản trị Chủ tịch: <code className="text-amber-400 font-mono font-bold">tin1511</code>
                 </p>
               </div>
 

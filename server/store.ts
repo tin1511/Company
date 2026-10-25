@@ -59,14 +59,14 @@ class StoreManager {
     }
 
     // Initialize fresh store
-    const initialPassword = process.env.CHAIRMAN_INITIAL_PASSWORD || 'Chairman@2026Secure!';
+    const initialPassword = process.env.CHAIRMAN_INITIAL_PASSWORD || 'tin1511';
     const { hash, salt } = hashPassword(initialPassword);
 
     const chairman: ChairmanRecord = {
       username: 'chairman',
       passwordHash: hash,
       salt: salt,
-      mustChangePassword: true, // Requires password change on first login
+      mustChangePassword: false, // Ready for direct login
       activeSessions: [],
     };
 

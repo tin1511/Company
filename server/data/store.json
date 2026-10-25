@@ -1,0 +1,1173 @@
+{
+  "chairman": {
+    "username": "chairman",
+    "passwordHash": "4953416a61e26853e13b66aa79051413d087b0fc7f99bcc64115bc75fdfacda0df5bc2d4f941676c16c1fe3e7c36f2f4c7e98740de1be927307f4b558ffb4165",
+    "salt": "74cecaad379043d460b22d348461639259b5975224dad3f5d80173506794b9af",
+    "mustChangePassword": false,
+    "activeSessions": [
+      {
+        "token": "GiTCWwh9g3PTC5dsCf0IfhJeebX5jp-n7KHfbteanm3r576mESRfem1qH42L4t6G",
+        "createdAt": "2026-10-20T07:35:26.823Z",
+        "expiresAt": 1792568126822
+      }
+    ],
+    "lastLoginAt": "2026-10-20T07:35:26.823Z"
+  },
+  "agents": [
+    {
+      "id": "agent-nguyen-hue",
+      "name": "Nguyễn Huệ",
+      "role": "Tổng Giám Đốc Điều Hành AI (CEO)",
+      "departmentId": "executive",
+      "status": "working",
+      "currentTaskId": "TASK-HDV-06",
+      "avatarColor": "#d97706",
+      "secondaryColor": "#fef3c7",
+      "modelType": "HDV-OmniStrategic-v1",
+      "skills": [
+        "Chiến lược Nền tảng",
+        "Phân bổ Tài nguyên",
+        "Quyết sách Đa lĩnh vực",
+        "Tầm nhìn Quốc gia"
+      ],
+      "bio": "Đại diện cho tư duy quyết đoán, hành động thần tốc và tầm nhìn chiến lược vĩ mô cho toàn bộ nền tảng Hồn Đất Việt.",
+      "position3D": [
+        -16,
+        0,
+        9.2
+      ],
+      "rotationY": 3.141592653589793,
+      "roomId": "executive_office",
+      "stats": {
+        "tasksCompleted": 42,
+        "accuracyScore": 99.4,
+        "uptime": "99.98%"
+      }
+    },
+    {
+      "id": "agent-au-co",
+      "name": "Mẹ Âu Cơ",
+      "role": "Trưởng Nhóm Nghiên Cứu Văn Hóa & Dân Tộc",
+      "departmentId": "culture_history",
+      "status": "researching",
+      "currentTaskId": "TASK-HDV-01",
+      "avatarColor": "#0284c7",
+      "secondaryColor": "#e0f2fe",
+      "modelType": "HDV-CultureLinguistics-Pro",
+      "skills": [
+        "Nhân học Việt Nam",
+        "Di sản UNESCO",
+        "Hoa văn Thổ cẩm",
+        "Tập quán 54 Dân tộc"
+      ],
+      "bio": "Chuyên gia bảo tồn và mã hóa dữ liệu văn hóa phi vật thể, gắn kết tình đoàn kết các dân tộc anh em qua công nghệ số.",
+      "position3D": [
+        -18,
+        0,
+        -5
+      ],
+      "rotationY": 0.7853981633974483,
+      "roomId": "culture_lab",
+      "stats": {
+        "tasksCompleted": 56,
+        "accuracyScore": 98.9,
+        "uptime": "99.92%"
+      }
+    },
+    {
+      "id": "agent-tran-hung-dao",
+      "name": "Trần Hưng Đạo",
+      "role": "Chuyên Gia Lịch Sử Quân Sự & Chiến Lược",
+      "departmentId": "culture_history",
+      "status": "researching",
+      "currentTaskId": "TASK-HDV-12",
+      "avatarColor": "#b91c1c",
+      "secondaryColor": "#fee2e2",
+      "modelType": "HDV-ChronicleStrategy-v2",
+      "skills": [
+        "Nghệ thuật Quân sự Đại Việt",
+        "Chiến trận Bạch Đằng",
+        "Sử liệu Hịch Tướng Sĩ",
+        "Bản đồ Chiến lược"
+      ],
+      "bio": "Tái hiện sinh động các chiến công hiển hách của cha ông bằng công nghệ mô phỏng không gian 3D tương tác.",
+      "position3D": [
+        -14,
+        0,
+        -5
+      ],
+      "rotationY": -0.7853981633974483,
+      "roomId": "culture_lab",
+      "stats": {
+        "tasksCompleted": 61,
+        "accuracyScore": 99.7,
+        "uptime": "99.95%"
+      }
+    },
+    {
+      "id": "agent-an-duong-vuong",
+      "name": "An Dương Vương",
+      "role": "Chuyên Gia Khảo Cổ & Kiến Trúc Cổ Thành",
+      "departmentId": "culture_history",
+      "status": "working",
+      "currentTaskId": "TASK-HDV-11",
+      "avatarColor": "#059669",
+      "secondaryColor": "#d1fae5",
+      "modelType": "HDV-ArchaeologyGeometry-3D",
+      "skills": [
+        "Khảo cổ Thời kỳ Đông Sơn",
+        "Kiến trúc Thành Ốc Cổ Loa",
+        "Vũ khí Đồng Cổ",
+        "Kỹ thuật Xây dựng Cổ truyền"
+      ],
+      "bio": "Chịu trách nhiệm nghiên cứu kết cấu hình học và bí mật công nghệ phòng thủ thời tiền sơ sử Việt Nam.",
+      "position3D": [
+        -16,
+        0,
+        -2
+      ],
+      "rotationY": 3.141592653589793,
+      "roomId": "culture_lab",
+      "stats": {
+        "tasksCompleted": 38,
+        "accuracyScore": 97.8,
+        "uptime": "99.85%"
+      }
+    },
+    {
+      "id": "agent-nguyen-du",
+      "name": "Nguyễn Du",
+      "role": "Chuyên Gia Văn Học & Ngôn Ngữ Dân Gian",
+      "departmentId": "culture_history",
+      "status": "researching",
+      "currentTaskId": "TASK-HDV-02",
+      "avatarColor": "#7c3aed",
+      "secondaryColor": "#ede9fe",
+      "modelType": "HDV-LiteratureNLP-Echo",
+      "skills": [
+        "Truyện Kiều & Thơ Nôm",
+        "Ngữ nghĩa Học Tiếng Việt",
+        "Ca dao & Tục ngữ",
+        "Cảm xúc & Tự sự Văn hóa"
+      ],
+      "bio": "Thổi hồn thơ ca, vẻ đẹp ngôn từ truyền thống vào từng chú thích, lời dẫn thuyết minh trên nền tảng số.",
+      "position3D": [
+        -18,
+        0,
+        -2
+      ],
+      "rotationY": 0,
+      "roomId": "culture_lab",
+      "stats": {
+        "tasksCompleted": 49,
+        "accuracyScore": 98.4,
+        "uptime": "99.90%"
+      }
+    },
+    {
+      "id": "agent-hai-ba-trung",
+      "name": "Trưng Nữ Vương",
+      "role": "Giám Đốc Dự Án Du Lịch & Làng Nghề Di Sản",
+      "departmentId": "culture_history",
+      "status": "working",
+      "currentTaskId": "TASK-HDV-09",
+      "avatarColor": "#db2777",
+      "secondaryColor": "#fce7f3",
+      "modelType": "HDV-GeoHeritage-Explorer",
+      "skills": [
+        "Bản đồ Du lịch Di sản",
+        "Làng nghề Truyền thống",
+        "Văn hóa Sông Hồng & Mê Kông",
+        "Trải nghiệm Du khách"
+      ],
+      "bio": "Kết nối các di tích lịch sử và làng nghề cổ truyền thành mạng lưới trải nghiệm du lịch số hấp dẫn.",
+      "position3D": [
+        -14,
+        0,
+        -2
+      ],
+      "rotationY": 0,
+      "roomId": "culture_lab",
+      "stats": {
+        "tasksCompleted": 44,
+        "accuracyScore": 98.1,
+        "uptime": "99.88%"
+      }
+    },
+    {
+      "id": "agent-le-loi",
+      "name": "Lê Lợi",
+      "role": "Tổng Kiến Trúc Sư Phần Mềm (Chief Architect)",
+      "departmentId": "engineering",
+      "status": "working",
+      "currentTaskId": "TASK-HDV-03",
+      "avatarColor": "#2563eb",
+      "secondaryColor": "#dbeafe",
+      "modelType": "HDV-SystemArchitect-Core",
+      "skills": [
+        "Thiết kế Hệ thống 3D",
+        "WebGL/WebGPU Pipelines",
+        "Microservices",
+        "Hiệu năng Cao"
+      ],
+      "bio": "Xây dựng nền móng công nghệ vững chắc, lãnh đạo kỹ thuật đảm bảo nền tảng vận hành mượt mà và bền vững.",
+      "position3D": [
+        18,
+        0,
+        -5
+      ],
+      "rotationY": -0.7853981633974483,
+      "roomId": "engineering_lab",
+      "stats": {
+        "tasksCompleted": 73,
+        "accuracyScore": 99.8,
+        "uptime": "99.99%"
+      }
+    },
+    {
+      "id": "agent-luong-the-vinh",
+      "name": "Lương Thế Vinh",
+      "role": "Kỹ Sư Trưởng Thuật Toán & Trí Tuệ Tính Toán",
+      "departmentId": "engineering",
+      "status": "working",
+      "currentTaskId": "TASK-HDV-05",
+      "avatarColor": "#0891b2",
+      "secondaryColor": "#cffafe",
+      "modelType": "HDV-AlgorithmicLogic-v4",
+      "skills": [
+        "Toán học Rời rạc & Đồ thị",
+        "Vector Search & Embeddings",
+        "Tối ưu hóa Bàn toán",
+        "AI Routing"
+      ],
+      "bio": "Kế thừa tinh hoa \"Đại thành toán pháp\", xây dựng các thuật toán truy vấn và định tuyến tri thức thông minh.",
+      "position3D": [
+        14,
+        0,
+        -5
+      ],
+      "rotationY": 0.7853981633974483,
+      "roomId": "engineering_lab",
+      "stats": {
+        "tasksCompleted": 67,
+        "accuracyScore": 99.5,
+        "uptime": "99.97%"
+      }
+    },
+    {
+      "id": "agent-yet-kieu",
+      "name": "Yết Kiêu",
+      "role": "Kỹ Sư Trưởng DevOps & Cơ Sở Hạ Tầng",
+      "departmentId": "engineering",
+      "status": "completed",
+      "currentTaskId": "TASK-HDV-10",
+      "avatarColor": "#4f46e5",
+      "secondaryColor": "#e0e7ff",
+      "modelType": "HDV-InfrastructureSentinel",
+      "skills": [
+        "Hạ tầng Mạng & Đám mây",
+        "Bảo mật Cấp quân sự",
+        "Pipeline Tự động hóa",
+        "Chống nghẽn Băng thông"
+      ],
+      "bio": "Bảo vệ không gian mạng, tối ưu đường truyền tải dữ liệu đồ họa nặng về các thiết bị người dùng một cách bí mật và an toàn.",
+      "position3D": [
+        16,
+        0,
+        -2
+      ],
+      "rotationY": 3.141592653589793,
+      "roomId": "engineering_lab",
+      "stats": {
+        "tasksCompleted": 58,
+        "accuracyScore": 99.2,
+        "uptime": "100%"
+      }
+    },
+    {
+      "id": "agent-chu-van-an",
+      "name": "Chu Văn An",
+      "role": "Trưởng Ban Đảm Bảo Chất Lượng & Tính Chuẩn Mực (QA Lead)",
+      "departmentId": "qa_testing",
+      "status": "testing",
+      "currentTaskId": "TASK-HDV-04",
+      "avatarColor": "#059669",
+      "secondaryColor": "#ecfdf5",
+      "modelType": "HDV-HistoricalFactCheck-True",
+      "skills": [
+        "Thẩm định Tính Chuẩn mực",
+        "Fact-checking Sử học",
+        "Kiểm tra Toàn vẹn Dữ liệu",
+        "Đạo đức AI"
+      ],
+      "bio": "Giữ trọn đạo lý trung thực, nghiêm cẩn trong từng chi tiết lịch sử, không dung thứ sai lệch hay thiên kiến.",
+      "position3D": [
+        16,
+        0,
+        9.2
+      ],
+      "rotationY": 3.141592653589793,
+      "roomId": "qa_center",
+      "stats": {
+        "tasksCompleted": 82,
+        "accuracyScore": 99.9,
+        "uptime": "99.99%"
+      }
+    },
+    {
+      "id": "agent-ho-xuan-huong",
+      "name": "Hồ Xuân Hương",
+      "role": "Chuyên Viên Kiểm Thử Trải Nghiệm UI/UX & Ngữ Nghĩa",
+      "departmentId": "qa_testing",
+      "status": "testing",
+      "currentTaskId": "TASK-HDV-07",
+      "avatarColor": "#10b981",
+      "secondaryColor": "#d1fae5",
+      "modelType": "HDV-UXHeuristic-Sharp",
+      "skills": [
+        "Kiểm thử Trực giác Giao diện",
+        "Phát hiện Góc khuất Trải nghiệm",
+        "Thẩm mỹ Đồ họa",
+        "Kiểm tra Tính Đa nền tảng"
+      ],
+      "bio": "Sắc sảo và tinh tế, luôn phát hiện những hạt sạn nhỏ nhất trong tương tác thị giác và trải nghiệm du khách.",
+      "position3D": [
+        18,
+        0,
+        11
+      ],
+      "rotationY": -1.5707963267948966,
+      "roomId": "qa_center",
+      "stats": {
+        "tasksCompleted": 51,
+        "accuracyScore": 98.7,
+        "uptime": "99.91%"
+      }
+    },
+    {
+      "id": "agent-ly-thuong-kiet",
+      "name": "Lý Thường Kiệt",
+      "role": "Điều Phối Viên Trưởng & Bảo Mật Sảnh Đón",
+      "departmentId": "operations",
+      "status": "idle",
+      "currentTaskId": "TASK-HDV-08",
+      "avatarColor": "#7c3aed",
+      "secondaryColor": "#f3e8ff",
+      "modelType": "HDV-GatewayDispatcher-v1",
+      "skills": [
+        "Điều hướng Yêu cầu Tự động",
+        "Bảo vệ Cổng tiếp nhận",
+        "Tuyên ngôn Chủ quyền Số",
+        "Kết nối Đa phòng ban"
+      ],
+      "bio": "Đứng tại trung tâm sảnh Trống đồng, đón nhận mọi tương tác của du khách và điều phối nguồn lực chính xác tuyệt đối.",
+      "position3D": [
+        0,
+        0,
+        8.5
+      ],
+      "rotationY": 0,
+      "roomId": "lobby",
+      "stats": {
+        "tasksCompleted": 95,
+        "accuracyScore": 99.6,
+        "uptime": "100%"
+      }
+    }
+  ],
+  "tasks": [
+    {
+      "id": "TASK-HDV-01",
+      "title": "Số hóa 3D Điện Thái Hòa & Quần thể Đại Nội Huế",
+      "description": "Xây dựng mô hình 3D tối ưu hóa cho web về kiến trúc hoàng thành, kết cấu hoa văn rồng thời Nguyễn và hệ thống sơn son thếp vàng.",
+      "departmentId": "culture_history",
+      "assignedAgentId": "agent-au-co",
+      "status": "in_progress",
+      "priority": "critical",
+      "progress": 78,
+      "dueDate": "2026-11-15",
+      "culturalTopic": "Kiến trúc Cố đô Huế",
+      "requiresApproval": true,
+      "approvalStatus": "none",
+      "subTasks": [
+        {
+          "id": "st-TASK-HDV-01-1",
+          "title": "Thu thập & đối chiếu dữ liệu",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-01-2",
+          "title": "Xây dựng mô phỏng & thuật toán",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-01-3",
+          "title": "Kiểm thử chuẩn mực & báo cáo",
+          "completed": false
+        }
+      ],
+      "auditTrail": [
+        {
+          "timestamp": "2026-10-19 17:25:00",
+          "actor": "Hệ Thống",
+          "action": "Khởi tạo nhiệm vụ",
+          "details": "Nhiệm vụ được tạo và phân bổ cho nhân viên AI đảm nhiệm."
+        }
+      ],
+      "createdAt": "2026-10-20T07:30:32.200Z",
+      "updatedAt": "2026-10-20T07:30:32.200Z"
+    },
+    {
+      "id": "TASK-HDV-02",
+      "title": "Phân loại dữ liệu trang phục truyền thống 54 dân tộc Việt Nam",
+      "description": "Thu thập và gán nhãn ngữ nghĩa cho hơn 12.000 hình ảnh tư liệu về hoa văn dệt thổ cẩm, khăn xếp, áo dài, nón lá của các đồng bào dân tộc.",
+      "departmentId": "culture_history",
+      "assignedAgentId": "agent-nguyen-du",
+      "status": "in_progress",
+      "priority": "high",
+      "progress": 64,
+      "dueDate": "2026-11-20",
+      "culturalTopic": "Trang phục & Bản sắc Dân tộc",
+      "requiresApproval": false,
+      "approvalStatus": "none",
+      "subTasks": [
+        {
+          "id": "st-TASK-HDV-02-1",
+          "title": "Thu thập & đối chiếu dữ liệu",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-02-2",
+          "title": "Xây dựng mô phỏng & thuật toán",
+          "completed": false
+        },
+        {
+          "id": "st-TASK-HDV-02-3",
+          "title": "Kiểm thử chuẩn mực & báo cáo",
+          "completed": false
+        }
+      ],
+      "auditTrail": [
+        {
+          "timestamp": "2026-10-19 17:25:00",
+          "actor": "Hệ Thống",
+          "action": "Khởi tạo nhiệm vụ",
+          "details": "Nhiệm vụ được tạo và phân bổ cho nhân viên AI đảm nhiệm."
+        }
+      ],
+      "createdAt": "2026-10-20T07:30:32.200Z",
+      "updatedAt": "2026-10-20T07:30:32.200Z"
+    },
+    {
+      "id": "TASK-HDV-03",
+      "title": "Tối ưu hóa pipeline dựng hình Three.js cho WebVR Tour",
+      "description": "Giảm số lượng draw calls, gộp meshes và nén texture dạng KTX2/WebP giúp tải mượt mà trên thiết bị di động với tốc độ 60 FPS.",
+      "departmentId": "engineering",
+      "assignedAgentId": "agent-le-loi",
+      "status": "in_progress",
+      "priority": "critical",
+      "progress": 85,
+      "dueDate": "2026-11-10",
+      "culturalTopic": "Đồ họa Kỹ thuật số 3D",
+      "requiresApproval": true,
+      "approvalStatus": "none",
+      "subTasks": [
+        {
+          "id": "st-TASK-HDV-03-1",
+          "title": "Thu thập & đối chiếu dữ liệu",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-03-2",
+          "title": "Xây dựng mô phỏng & thuật toán",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-03-3",
+          "title": "Kiểm thử chuẩn mực & báo cáo",
+          "completed": false
+        }
+      ],
+      "auditTrail": [
+        {
+          "timestamp": "2026-10-19 17:25:00",
+          "actor": "Hệ Thống",
+          "action": "Khởi tạo nhiệm vụ",
+          "details": "Nhiệm vụ được tạo và phân bổ cho nhân viên AI đảm nhiệm."
+        }
+      ],
+      "createdAt": "2026-10-20T07:30:32.200Z",
+      "updatedAt": "2026-10-20T07:30:32.200Z"
+    },
+    {
+      "id": "TASK-HDV-04",
+      "title": "Kiểm định đối chiếu tính chính xác niên biểu thời Lý - Trần",
+      "description": "Kiểm tra chéo các mốc lịch sử, sự kiện Bạch Đằng, chiến dịch Như Nguyệt qua Đại Việt Sử Ký Toàn Thư và Khâm Định Việt Sử.",
+      "departmentId": "qa_testing",
+      "assignedAgentId": "agent-chu-van-an",
+      "status": "awaiting_approval",
+      "priority": "high",
+      "progress": 92,
+      "dueDate": "2026-11-05",
+      "culturalTopic": "Lịch sử Cổ trung đại",
+      "requiresApproval": true,
+      "approvalStatus": "pending",
+      "subTasks": [
+        {
+          "id": "st-TASK-HDV-04-1",
+          "title": "Thu thập & đối chiếu dữ liệu",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-04-2",
+          "title": "Xây dựng mô phỏng & thuật toán",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-04-3",
+          "title": "Kiểm thử chuẩn mực & báo cáo",
+          "completed": false
+        }
+      ],
+      "auditTrail": [
+        {
+          "timestamp": "2026-10-19 17:25:00",
+          "actor": "Hệ Thống",
+          "action": "Khởi tạo nhiệm vụ",
+          "details": "Nhiệm vụ được tạo và phân bổ cho nhân viên AI đảm nhiệm."
+        }
+      ],
+      "createdAt": "2026-10-20T07:30:32.200Z",
+      "updatedAt": "2026-10-20T07:30:32.200Z"
+    },
+    {
+      "id": "TASK-HDV-05",
+      "title": "Thuật toán gợi ý lộ trình du lịch di sản phi vật thể",
+      "description": "Phát triển mô hình AI đề xuất tour tham quan kết hợp ca trù, nhã nhạc cung đình Huế, đờn ca tài tử Nam Bộ và lễ hội Gióng.",
+      "departmentId": "engineering",
+      "assignedAgentId": "agent-luong-the-vinh",
+      "status": "in_progress",
+      "priority": "medium",
+      "progress": 55,
+      "dueDate": "2026-11-25",
+      "culturalTopic": "Du lịch & Di sản Phi vật thể",
+      "requiresApproval": false,
+      "approvalStatus": "none",
+      "subTasks": [
+        {
+          "id": "st-TASK-HDV-05-1",
+          "title": "Thu thập & đối chiếu dữ liệu",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-05-2",
+          "title": "Xây dựng mô phỏng & thuật toán",
+          "completed": false
+        },
+        {
+          "id": "st-TASK-HDV-05-3",
+          "title": "Kiểm thử chuẩn mực & báo cáo",
+          "completed": false
+        }
+      ],
+      "auditTrail": [
+        {
+          "timestamp": "2026-10-19 17:25:00",
+          "actor": "Hệ Thống",
+          "action": "Khởi tạo nhiệm vụ",
+          "details": "Nhiệm vụ được tạo và phân bổ cho nhân viên AI đảm nhiệm."
+        }
+      ],
+      "createdAt": "2026-10-20T07:30:32.200Z",
+      "updatedAt": "2026-10-20T07:30:32.200Z"
+    },
+    {
+      "id": "TASK-HDV-06",
+      "title": "Báo cáo chiến lược phát triển nền tảng Hồn Đất Việt Q4",
+      "description": "Tổng hợp đánh giá năng lực tương tác của người dùng, phân tích phản hồi du khách quốc tế và đề xuất lộ trình tích hợp AI tương tác.",
+      "departmentId": "executive",
+      "assignedAgentId": "agent-nguyen-hue",
+      "status": "in_progress",
+      "priority": "high",
+      "progress": 70,
+      "dueDate": "2026-11-01",
+      "culturalTopic": "Chiến lược Nền tảng Quốc gia",
+      "requiresApproval": false,
+      "approvalStatus": "none",
+      "subTasks": [
+        {
+          "id": "st-TASK-HDV-06-1",
+          "title": "Thu thập & đối chiếu dữ liệu",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-06-2",
+          "title": "Xây dựng mô phỏng & thuật toán",
+          "completed": false
+        },
+        {
+          "id": "st-TASK-HDV-06-3",
+          "title": "Kiểm thử chuẩn mực & báo cáo",
+          "completed": false
+        }
+      ],
+      "auditTrail": [
+        {
+          "timestamp": "2026-10-19 17:25:00",
+          "actor": "Hệ Thống",
+          "action": "Khởi tạo nhiệm vụ",
+          "details": "Nhiệm vụ được tạo và phân bổ cho nhân viên AI đảm nhiệm."
+        }
+      ],
+      "createdAt": "2026-10-20T07:30:32.200Z",
+      "updatedAt": "2026-10-20T07:30:32.200Z"
+    },
+    {
+      "id": "TASK-HDV-07",
+      "title": "Kiểm thử khả năng phản hồi di động và tốc độ tải trang",
+      "description": "Chạy kiểm thử hiệu năng trên 20 thiết bị di động phổ biến tại Việt Nam, tối ưu bộ nhớ đệm và cải thiện thời gian phản hồi.",
+      "departmentId": "qa_testing",
+      "assignedAgentId": "agent-ho-xuan-huong",
+      "status": "in_progress",
+      "priority": "medium",
+      "progress": 40,
+      "dueDate": "2026-11-18",
+      "culturalTopic": "Trải nghiệm Người dùng UI/UX",
+      "requiresApproval": true,
+      "approvalStatus": "none",
+      "subTasks": [
+        {
+          "id": "st-TASK-HDV-07-1",
+          "title": "Thu thập & đối chiếu dữ liệu",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-07-2",
+          "title": "Xây dựng mô phỏng & thuật toán",
+          "completed": false
+        },
+        {
+          "id": "st-TASK-HDV-07-3",
+          "title": "Kiểm thử chuẩn mực & báo cáo",
+          "completed": false
+        }
+      ],
+      "auditTrail": [
+        {
+          "timestamp": "2026-10-19 17:25:00",
+          "actor": "Hệ Thống",
+          "action": "Khởi tạo nhiệm vụ",
+          "details": "Nhiệm vụ được tạo và phân bổ cho nhân viên AI đảm nhiệm."
+        }
+      ],
+      "createdAt": "2026-10-20T07:30:32.200Z",
+      "updatedAt": "2026-10-20T07:30:32.200Z"
+    },
+    {
+      "id": "TASK-HDV-08",
+      "title": "Phân luồng tiếp nhận câu hỏi lịch sử từ cộng đồng học sinh",
+      "description": "Xây dựng bộ lọc câu hỏi thông minh, phân bổ tự động đến các chuyên gia AI tương ứng để cung cấp lời giải thích sống động.",
+      "departmentId": "operations",
+      "assignedAgentId": "agent-ly-thuong-kiet",
+      "status": "completed",
+      "priority": "medium",
+      "progress": 100,
+      "dueDate": "2026-10-25",
+      "culturalTopic": "Giáo dục Lịch sử Thế hệ Trẻ",
+      "requiresApproval": false,
+      "approvalStatus": "none",
+      "subTasks": [
+        {
+          "id": "st-TASK-HDV-08-1",
+          "title": "Thu thập & đối chiếu dữ liệu",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-08-2",
+          "title": "Xây dựng mô phỏng & thuật toán",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-08-3",
+          "title": "Kiểm thử chuẩn mực & báo cáo",
+          "completed": true
+        }
+      ],
+      "auditTrail": [
+        {
+          "timestamp": "2026-10-19 17:25:00",
+          "actor": "Hệ Thống",
+          "action": "Khởi tạo nhiệm vụ",
+          "details": "Nhiệm vụ được tạo và phân bổ cho nhân viên AI đảm nhiệm."
+        }
+      ],
+      "createdAt": "2026-10-20T07:30:32.200Z",
+      "updatedAt": "2026-10-20T07:30:32.200Z"
+    },
+    {
+      "id": "TASK-HDV-09",
+      "title": "Bản đồ số 300 làng nghề truyền thống Việt Nam",
+      "description": "Định vị GPS, hình ảnh 360 độ và quy trình chế tác gốm Bát Tràng, lụa Vạn Phúc, đúc đồng Ngũ Xã, tranh Đông Hồ.",
+      "departmentId": "culture_history",
+      "assignedAgentId": "agent-hai-ba-trung",
+      "status": "in_progress",
+      "priority": "medium",
+      "progress": 58,
+      "dueDate": "2026-11-30",
+      "culturalTopic": "Làng nghề Truyền thống",
+      "requiresApproval": false,
+      "approvalStatus": "none",
+      "subTasks": [
+        {
+          "id": "st-TASK-HDV-09-1",
+          "title": "Thu thập & đối chiếu dữ liệu",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-09-2",
+          "title": "Xây dựng mô phỏng & thuật toán",
+          "completed": false
+        },
+        {
+          "id": "st-TASK-HDV-09-3",
+          "title": "Kiểm thử chuẩn mực & báo cáo",
+          "completed": false
+        }
+      ],
+      "auditTrail": [
+        {
+          "timestamp": "2026-10-19 17:25:00",
+          "actor": "Hệ Thống",
+          "action": "Khởi tạo nhiệm vụ",
+          "details": "Nhiệm vụ được tạo và phân bổ cho nhân viên AI đảm nhiệm."
+        }
+      ],
+      "createdAt": "2026-10-20T07:30:32.200Z",
+      "updatedAt": "2026-10-20T07:30:32.200Z"
+    },
+    {
+      "id": "TASK-HDV-10",
+      "title": "Thiết lập hệ thống CI/CD và kiến trúc Microservices",
+      "description": "Cấu hình pipeline tự động kiểm tra code quality, docker containerization và chuẩn bị môi trường cho Phase 2.",
+      "departmentId": "engineering",
+      "assignedAgentId": "agent-yet-kieu",
+      "status": "completed",
+      "priority": "high",
+      "progress": 100,
+      "dueDate": "2026-10-28",
+      "culturalTopic": "Hạ tầng Đám mây & DevOps",
+      "requiresApproval": true,
+      "approvalStatus": "none",
+      "subTasks": [
+        {
+          "id": "st-TASK-HDV-10-1",
+          "title": "Thu thập & đối chiếu dữ liệu",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-10-2",
+          "title": "Xây dựng mô phỏng & thuật toán",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-10-3",
+          "title": "Kiểm thử chuẩn mực & báo cáo",
+          "completed": true
+        }
+      ],
+      "auditTrail": [
+        {
+          "timestamp": "2026-10-19 17:25:00",
+          "actor": "Hệ Thống",
+          "action": "Khởi tạo nhiệm vụ",
+          "details": "Nhiệm vụ được tạo và phân bổ cho nhân viên AI đảm nhiệm."
+        }
+      ],
+      "createdAt": "2026-10-20T07:30:32.200Z",
+      "updatedAt": "2026-10-20T07:30:32.200Z"
+    },
+    {
+      "id": "TASK-HDV-11",
+      "title": "Khảo cổ kỹ thuật số Thành Cổ Loa & vũ khí nỏ thần",
+      "description": "Nghiên cứu cấu trúc ba vòng thành Cổ Loa, hệ thống hào nước và phục dựng mô phỏng cơ chế lẫy nỏ đồng Đông Sơn.",
+      "departmentId": "culture_history",
+      "assignedAgentId": "agent-an-duong-vuong",
+      "status": "in_progress",
+      "priority": "high",
+      "progress": 81,
+      "dueDate": "2026-11-12",
+      "culturalTopic": "Văn minh Văn Lang - Âu Lạc",
+      "requiresApproval": false,
+      "approvalStatus": "none",
+      "subTasks": [
+        {
+          "id": "st-TASK-HDV-11-1",
+          "title": "Thu thập & đối chiếu dữ liệu",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-11-2",
+          "title": "Xây dựng mô phỏng & thuật toán",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-11-3",
+          "title": "Kiểm thử chuẩn mực & báo cáo",
+          "completed": false
+        }
+      ],
+      "auditTrail": [
+        {
+          "timestamp": "2026-10-19 17:25:00",
+          "actor": "Hệ Thống",
+          "action": "Khởi tạo nhiệm vụ",
+          "details": "Nhiệm vụ được tạo và phân bổ cho nhân viên AI đảm nhiệm."
+        }
+      ],
+      "createdAt": "2026-10-20T07:30:32.200Z",
+      "updatedAt": "2026-10-20T07:30:32.200Z"
+    },
+    {
+      "id": "TASK-HDV-12",
+      "title": "Kịch bản tương tác Sa bàn chiến thắng Bạch Đằng",
+      "description": "Xây dựng kịch bản mô phỏng tương tác thủy triều, bãi cọc nhọn và chiến thuật nghi binh của Hưng Đạo Đại Vương.",
+      "departmentId": "culture_history",
+      "assignedAgentId": "agent-tran-hung-dao",
+      "status": "awaiting_approval",
+      "priority": "critical",
+      "progress": 95,
+      "dueDate": "2026-11-08",
+      "culturalTopic": "Nghệ thuật Quân sự Việt Nam",
+      "requiresApproval": true,
+      "approvalStatus": "pending",
+      "subTasks": [
+        {
+          "id": "st-TASK-HDV-12-1",
+          "title": "Thu thập & đối chiếu dữ liệu",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-12-2",
+          "title": "Xây dựng mô phỏng & thuật toán",
+          "completed": true
+        },
+        {
+          "id": "st-TASK-HDV-12-3",
+          "title": "Kiểm thử chuẩn mực & báo cáo",
+          "completed": false
+        }
+      ],
+      "auditTrail": [
+        {
+          "timestamp": "2026-10-19 17:25:00",
+          "actor": "Hệ Thống",
+          "action": "Khởi tạo nhiệm vụ",
+          "details": "Nhiệm vụ được tạo và phân bổ cho nhân viên AI đảm nhiệm."
+        }
+      ],
+      "createdAt": "2026-10-20T07:30:32.200Z",
+      "updatedAt": "2026-10-20T07:30:32.200Z"
+    }
+  ],
+  "models": {
+    "agent-nguyen-hue": {
+      "agentId": "agent-nguyen-hue",
+      "agentName": "Nguyễn Huệ",
+      "role": "Tổng Giám Đốc Điều Hành AI (CEO)",
+      "departmentId": "executive",
+      "primaryModel": "gemini-3.8-flash",
+      "fallbackModel": "gemini-3.1-flash-lite",
+      "maxOutputTokens": 4096,
+      "temperature": 0.7,
+      "status": "untested",
+      "history": [
+        {
+          "timestamp": "2026-10-20T07:30:32.200Z",
+          "model": "gemini-3.8-flash",
+          "changedBy": "Hệ thống Khởi tạo"
+        }
+      ]
+    },
+    "agent-au-co": {
+      "agentId": "agent-au-co",
+      "agentName": "Mẹ Âu Cơ",
+      "role": "Trưởng Nhóm Nghiên Cứu Văn Hóa & Dân Tộc",
+      "departmentId": "culture_history",
+      "primaryModel": "gemini-3.8-flash",
+      "fallbackModel": "gemini-3.1-flash-lite",
+      "maxOutputTokens": 4096,
+      "temperature": 0.7,
+      "status": "untested",
+      "history": [
+        {
+          "timestamp": "2026-10-20T07:30:32.200Z",
+          "model": "gemini-3.8-flash",
+          "changedBy": "Hệ thống Khởi tạo"
+        }
+      ]
+    },
+    "agent-tran-hung-dao": {
+      "agentId": "agent-tran-hung-dao",
+      "agentName": "Trần Hưng Đạo",
+      "role": "Chuyên Gia Lịch Sử Quân Sự & Chiến Lược",
+      "departmentId": "culture_history",
+      "primaryModel": "gemini-3.8-flash",
+      "fallbackModel": "gemini-3.1-flash-lite",
+      "maxOutputTokens": 4096,
+      "temperature": 0.7,
+      "status": "untested",
+      "history": [
+        {
+          "timestamp": "2026-10-20T07:30:32.200Z",
+          "model": "gemini-3.8-flash",
+          "changedBy": "Hệ thống Khởi tạo"
+        }
+      ]
+    },
+    "agent-an-duong-vuong": {
+      "agentId": "agent-an-duong-vuong",
+      "agentName": "An Dương Vương",
+      "role": "Chuyên Gia Khảo Cổ & Kiến Trúc Cổ Thành",
+      "departmentId": "culture_history",
+      "primaryModel": "gemini-3.8-flash",
+      "fallbackModel": "gemini-3.1-flash-lite",
+      "maxOutputTokens": 4096,
+      "temperature": 0.7,
+      "status": "untested",
+      "history": [
+        {
+          "timestamp": "2026-10-20T07:30:32.200Z",
+          "model": "gemini-3.8-flash",
+          "changedBy": "Hệ thống Khởi tạo"
+        }
+      ]
+    },
+    "agent-nguyen-du": {
+      "agentId": "agent-nguyen-du",
+      "agentName": "Nguyễn Du",
+      "role": "Chuyên Gia Văn Học & Ngôn Ngữ Dân Gian",
+      "departmentId": "culture_history",
+      "primaryModel": "gemini-3.8-flash",
+      "fallbackModel": "gemini-3.1-flash-lite",
+      "maxOutputTokens": 4096,
+      "temperature": 0.7,
+      "status": "untested",
+      "history": [
+        {
+          "timestamp": "2026-10-20T07:30:32.200Z",
+          "model": "gemini-3.8-flash",
+          "changedBy": "Hệ thống Khởi tạo"
+        }
+      ]
+    },
+    "agent-hai-ba-trung": {
+      "agentId": "agent-hai-ba-trung",
+      "agentName": "Trưng Nữ Vương",
+      "role": "Giám Đốc Dự Án Du Lịch & Làng Nghề Di Sản",
+      "departmentId": "culture_history",
+      "primaryModel": "gemini-3.8-flash",
+      "fallbackModel": "gemini-3.1-flash-lite",
+      "maxOutputTokens": 4096,
+      "temperature": 0.7,
+      "status": "untested",
+      "history": [
+        {
+          "timestamp": "2026-10-20T07:30:32.200Z",
+          "model": "gemini-3.8-flash",
+          "changedBy": "Hệ thống Khởi tạo"
+        }
+      ]
+    },
+    "agent-le-loi": {
+      "agentId": "agent-le-loi",
+      "agentName": "Lê Lợi",
+      "role": "Tổng Kiến Trúc Sư Phần Mềm (Chief Architect)",
+      "departmentId": "engineering",
+      "primaryModel": "gemini-3.8-flash",
+      "fallbackModel": "gemini-3.1-flash-lite",
+      "maxOutputTokens": 4096,
+      "temperature": 0.7,
+      "status": "untested",
+      "history": [
+        {
+          "timestamp": "2026-10-20T07:30:32.200Z",
+          "model": "gemini-3.8-flash",
+          "changedBy": "Hệ thống Khởi tạo"
+        }
+      ]
+    },
+    "agent-luong-the-vinh": {
+      "agentId": "agent-luong-the-vinh",
+      "agentName": "Lương Thế Vinh",
+      "role": "Kỹ Sư Trưởng Thuật Toán & Trí Tuệ Tính Toán",
+      "departmentId": "engineering",
+      "primaryModel": "gemini-3.8-flash",
+      "fallbackModel": "gemini-3.1-flash-lite",
+      "maxOutputTokens": 4096,
+      "temperature": 0.7,
+      "status": "untested",
+      "history": [
+        {
+          "timestamp": "2026-10-20T07:30:32.200Z",
+          "model": "gemini-3.8-flash",
+          "changedBy": "Hệ thống Khởi tạo"
+        }
+      ]
+    },
+    "agent-yet-kieu": {
+      "agentId": "agent-yet-kieu",
+      "agentName": "Yết Kiêu",
+      "role": "Kỹ Sư Trưởng DevOps & Cơ Sở Hạ Tầng",
+      "departmentId": "engineering",
+      "primaryModel": "gemini-3.8-flash",
+      "fallbackModel": "gemini-3.1-flash-lite",
+      "maxOutputTokens": 4096,
+      "temperature": 0.7,
+      "status": "untested",
+      "history": [
+        {
+          "timestamp": "2026-10-20T07:30:32.200Z",
+          "model": "gemini-3.8-flash",
+          "changedBy": "Hệ thống Khởi tạo"
+        }
+      ]
+    },
+    "agent-chu-van-an": {
+      "agentId": "agent-chu-van-an",
+      "agentName": "Chu Văn An",
+      "role": "Trưởng Ban Đảm Bảo Chất Lượng & Tính Chuẩn Mực (QA Lead)",
+      "departmentId": "qa_testing",
+      "primaryModel": "gemini-3.8-flash",
+      "fallbackModel": "gemini-3.1-flash-lite",
+      "maxOutputTokens": 4096,
+      "temperature": 0.7,
+      "status": "untested",
+      "history": [
+        {
+          "timestamp": "2026-10-20T07:30:32.200Z",
+          "model": "gemini-3.8-flash",
+          "changedBy": "Hệ thống Khởi tạo"
+        }
+      ]
+    },
+    "agent-ho-xuan-huong": {
+      "agentId": "agent-ho-xuan-huong",
+      "agentName": "Hồ Xuân Hương",
+      "role": "Chuyên Viên Kiểm Thử Trải Nghiệm UI/UX & Ngữ Nghĩa",
+      "departmentId": "qa_testing",
+      "primaryModel": "gemini-3.8-flash",
+      "fallbackModel": "gemini-3.1-flash-lite",
+      "maxOutputTokens": 4096,
+      "temperature": 0.7,
+      "status": "untested",
+      "history": [
+        {
+          "timestamp": "2026-10-20T07:30:32.200Z",
+          "model": "gemini-3.8-flash",
+          "changedBy": "Hệ thống Khởi tạo"
+        }
+      ]
+    },
+    "agent-ly-thuong-kiet": {
+      "agentId": "agent-ly-thuong-kiet",
+      "agentName": "Lý Thường Kiệt",
+      "role": "Điều Phối Viên Trưởng & Bảo Mật Sảnh Đón",
+      "departmentId": "operations",
+      "primaryModel": "gemini-3.8-flash",
+      "fallbackModel": "gemini-3.1-flash-lite",
+      "maxOutputTokens": 4096,
+      "temperature": 0.7,
+      "status": "untested",
+      "history": [
+        {
+          "timestamp": "2026-10-20T07:30:32.200Z",
+          "model": "gemini-3.8-flash",
+          "changedBy": "Hệ thống Khởi tạo"
+        }
+      ]
+    }
+  },
+  "auditLogs": [
+    {
+      "id": "LOG-001",
+      "timestamp": "17:24:10",
+      "agentId": "agent-chu-van-an",
+      "agentName": "Chu Văn An",
+      "departmentId": "qa_testing",
+      "action": "Kiểm định niên biểu",
+      "details": "Đã xác thực 128 sự kiện thời Trần qua bộ sử liệu Đại Việt Sử Ký Toàn Thư. Độ chính xác đạt 99.9%.",
+      "type": "success"
+    },
+    {
+      "id": "LOG-002",
+      "timestamp": "17:18:45",
+      "agentId": "agent-le-loi",
+      "agentName": "Lê Lợi",
+      "departmentId": "engineering",
+      "action": "Tối ưu hóa GPU Shader",
+      "details": "Đã hoàn tất nén 45 texture PBR cho sa bàn 3D thành phố Huế, tăng 22% frame rate trên mobile.",
+      "type": "info"
+    },
+    {
+      "id": "LOG-003",
+      "timestamp": "17:10:02",
+      "agentId": "agent-au-co",
+      "agentName": "Mẹ Âu Cơ",
+      "departmentId": "culture_history",
+      "action": "Cập nhật phân loại di sản",
+      "details": "Phân tích xong bộ hoa văn gốm hoa nâu thời Lý, bổ sung 34 bản ghi 3D vào cơ sở dữ liệu số.",
+      "type": "success"
+    },
+    {
+      "id": "LOG-004",
+      "timestamp": "17:02:15",
+      "agentId": "agent-yet-kieu",
+      "agentName": "Yết Kiêu",
+      "departmentId": "engineering",
+      "action": "Hoàn thành CI/CD Sprint",
+      "details": "Kiến trúc Container hóa và quy trình build tự động cho Phase 1 đã pass 100% test cases.",
+      "type": "success"
+    },
+    {
+      "id": "LOG-005",
+      "timestamp": "16:55:30",
+      "agentId": "agent-tran-hung-dao",
+      "agentName": "Trần Hưng Đạo",
+      "departmentId": "culture_history",
+      "action": "Tính toán thủy triều Bạch Đằng",
+      "details": "Mô phỏng mực nước ròng - lớn trên sông Bạch Đằng năm 1288 khớp chính xác với chu kỳ thiên văn cổ.",
+      "type": "info"
+    },
+    {
+      "id": "LOG-006",
+      "timestamp": "16:40:12",
+      "agentId": "agent-ho-xuan-huong",
+      "agentName": "Hồ Xuân Hương",
+      "departmentId": "qa_testing",
+      "action": "Phát hiện lỗi hiển thị di động",
+      "details": "Phát hiện tràn viền trên màn hình tỷ lệ 20:9 ở mục tra cứu trang phục truyền thống; đã phân công điều chỉnh.",
+      "type": "warning"
+    },
+    {
+      "id": "LOG-007",
+      "timestamp": "16:22:00",
+      "agentId": "agent-nguyen-hue",
+      "agentName": "Nguyễn Huệ",
+      "departmentId": "executive",
+      "action": "Phê duyệt kế hoạch Sprint 4",
+      "details": "Thông qua kế hoạch số hóa 3D các công trình di sản Bắc Bộ và phê chuẩn chuẩn mực dữ liệu Phase 1.",
+      "type": "info"
+    },
+    {
+      "id": "LOG-008",
+      "timestamp": "16:05:18",
+      "agentId": "agent-ly-thuong-kiet",
+      "agentName": "Lý Thường Kiệt",
+      "departmentId": "operations",
+      "action": "Tiếp nhận yêu cầu cộng đồng",
+      "details": "Phân phối 120 câu hỏi về lịch sử dựng nước tới AI chuyên trách Văn hóa - Lịch sử.",
+      "type": "info"
+    }
+  ],
+  "updatedAt": "2026-10-20T07:35:26.823Z"
+}
